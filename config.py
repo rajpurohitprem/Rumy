@@ -1,0 +1,2 @@
+# Bot configuration
+BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
