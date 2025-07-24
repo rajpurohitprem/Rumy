@@ -1,4 +1,5 @@
 from telegram.ext import Application, CommandHandler
+from telegram import Update
 import logging
 from bot.handlers import RummyBotHandlers
 from config import BOT_TOKEN
