@@ -1,5 +1,5 @@
-from telegram.ext import Application, CommandHandler
 from telegram import Update
+from telegram.ext import Application, CommandHandler
 import logging
 from bot.handlers import RummyBotHandlers
 from config import BOT_TOKEN
